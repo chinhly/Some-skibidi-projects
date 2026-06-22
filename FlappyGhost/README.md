@@ -1,6 +1,6 @@
 # Flappy Bird (Flappy Ghost)
 
-A classic Flappy Bird clone built using Python and Pygame. Navigate the bird through the gap in the pipes without hitting them or falling off the screen!
+A classic Flappy Bird clone built by Chinh Ly using Python and Pygame. Navigate the bird through the gap in the pipes without hitting them or falling off the screen!
 
 ---
 
