@@ -1,6 +1,6 @@
 # Đồ án môn học: Xây dựng Thư viện sử dụng Templates
 
-Tài liệu hướng dẫn biên dịch và chạy mã nguồn của đồ án môn học CSC10004 - Cấu trúc dữ liệu và Giải thuật.
+Tài liệu hướng dẫn biên dịch và chạy mã nguồn của đồ án môn học Cấu trúc dữ liệu và Giải thuật.
 
 ## 1. Yêu cầu môi trường
 * Trình biên dịch C++ hỗ trợ tiêu chuẩn **C++17** trở lên (ví dụ: `g++`).
